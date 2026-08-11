@@ -1,0 +1,21 @@
+Temperature,Rainfall,WindSpeed,Risk
+25,10,10,Low
+28,20,15,Low
+30,40,20,Low
+32,60,25,Medium
+35,80,35,Medium
+36,100,45,Medium
+38,120,50,Medium
+39,150,65,High
+40,180,70,High
+41,200,80,High
+42,220,90,High
+43,250,100,Very High
+44,280,110,Very High
+45,300,120,Very High
+30,15,12,Low
+34,70,30,Medium
+37,110,55,Medium
+40,160,75,High
+42,210,95,High
+46,320,130,Very High
