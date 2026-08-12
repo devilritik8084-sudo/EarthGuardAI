@@ -192,7 +192,7 @@ It is not an official disaster warning system and should not replace government 
 
 # 👨‍💻 Developer
 
-**Ritick Kumar**
+**Ritik kumar**
 
 AI & Software Development Enthusiast
 
