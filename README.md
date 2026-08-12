@@ -15,7 +15,7 @@ The system uses weather parameters such as temperature, rainfall, and wind speed
 ✅ Decision Tree Classifier model  
 ✅ Weather condition analysis  
 ✅ Risk classification system  
-✅ Simple command-line interface (CLI)  
+✅ Simple Command-Line Interface (CLI)  
 ✅ Emergency warning messages  
 ✅ Lightweight and easy to run  
 ✅ Educational AI/ML research project  
@@ -24,17 +24,19 @@ The system uses weather parameters such as temperature, rainfall, and wind speed
 
 # 🧠 AI/ML Model
 
-### Machine Learning Algorithm
+## Machine Learning Algorithm
+
 - Decision Tree Classifier
 
-### Input Parameters
+## Input Parameters
+
 The model takes three environmental inputs:
 
 - 🌡️ Temperature (°C)
 - 🌧️ Rainfall (mm)
 - 💨 Wind Speed (km/h)
 
-### Prediction Output
+## Prediction Output
 
 The system predicts:
 
@@ -57,7 +59,20 @@ The system predicts:
 ---
 
 # 📂 Project Structure
-EarthGuardAI │ ├── main.py ├── model.py ├── history.py ├── requirements.txt ├── disaster_model.pkl ├── save_model.py ├── weather_data.csv ├── README.md └── LICENSE
+
+```text
+EarthGuardAI
+│
+├── main.py
+├── model.py
+├── history.py
+├── requirements.txt
+├── disaster_model.pkl
+├── save_model.py
+├── weather_data.csv
+├── README.md
+└── LICENSE
+```
 
 ---
 
@@ -67,13 +82,31 @@ EarthGuardAI │ ├── main.py ├── model.py ├── history.py ├�
 
 ```bash
 git clone https://github.com/devilritik8084-sudo/EarthGuardAI.git
-2. Open the project folder
+```
+
+## 2. Open the project folder
+
+```bash
 cd EarthGuardAI
-3. Install required libraries
+```
+
+## 3. Install required libraries
+
+```bash
 pip install -r requirements.txt
-4. Run the application
+```
+
+## 4. Run the application
+
+```bash
 python main.py
-▶️ Output Example
+```
+
+---
+
+# ▶️ Output Example
+
+```text
 🌍 EARTHGUARDAI
 
 AI Disaster Prediction & Emergency Alert System
@@ -99,6 +132,7 @@ Enter Wind Speed (km/h): 90
 
 🤖 EARTHGUARDAI RESULT
 
+
 Temperature : 42 °C
 Rainfall    : 200 mm
 Wind Speed  : 90 km/h
@@ -108,25 +142,64 @@ Wind Speed  : 90 km/h
 
 
 ⚠️ WARNING:
+
 High disaster risk detected!
 
 Please follow official emergency instructions.
-📊 Example Prediction Logic
-Example input:
+```
+
+---
+
+# 📊 Example Prediction Logic
+
+Example Input:
+
+```text
 Temperature: 42°C
 Rainfall: 200mm
 Wind Speed: 90km/h
-Output:
+```
+
+Prediction Output:
+
+```text
 Disaster Risk: HIGH
-🎯 Project Purpose
+```
+
+---
+
+# 🎯 Project Purpose
+
 EarthGuardAI was created to explore the application of Artificial Intelligence and Machine Learning in environmental risk analysis.
+
 The project demonstrates how AI models can analyze weather-related data and classify possible risk levels.
-⚠️ Disclaimer
+
+---
+
+# 📸 Screenshots
+
+Screenshots of the application output can be added here to demonstrate the working of EarthGuardAI.
+
+---
+
+# ⚠️ Disclaimer
+
 EarthGuardAI is a student/research project created for educational purposes.
+
 It is not an official disaster warning system and should not replace government emergency services or professional weather authorities.
-👨‍💻 Developer
-Ritik Kumar
+
+---
+
+# 👨‍💻 Developer
+
+**Ritick Kumar**
+
 AI & Software Development Enthusiast
-📜 License
+
+---
+
+# 📜 License
+
 This project is licensed under the MIT License.
+
 You are free to use, modify, and distribute this project according to the MIT License terms.
